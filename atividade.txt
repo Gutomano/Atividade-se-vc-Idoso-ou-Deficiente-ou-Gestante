@@ -3,19 +3,28 @@ Atividade se vc é idoso ou deficiente ou gestante
 
 
 importar java.util.Scanner;
+// importar um scanner da biblioteca
 
 classe HelloWorld 
+
 {
     public static void main(String[] args)
     
     {
         int gtr,gt,audi,ferrari;
+        //  variaveis 
+        
+        
         Scanner ler = new Scanner(System.in);
+        // de uma variavel criacao  
+        
         System.out.printf("Você tem algum desses problemas?");
         gtr = ler.nextInt();
+        // condição e a frase a ser exibida na tela 
         
         System.out.printf("Caso seja deficiente físico digite 1");
         gt = ler.nextInt();
+        //conçao a  e frase a ser exibida na tela 
         
         
         System.out.printf("Caso seja gestante digite 2");
@@ -25,15 +34,18 @@ classe HelloWorld
         ferrari = ler.nextInt()
         
         if (gt == 1)
+        // opicao numer o 1
     }
        System.out.printf("Voce pode estacionar!!!");  
 {
     else if (audi == 2 ) 
+    // opicao numero 2
 }
    System.out.printf("você pode estacionar");
 
     {
     else (ferrari == 3 )
+    // opcao  numero 3
   System.out.prntf("voce pode estacionar")
     }
 }
