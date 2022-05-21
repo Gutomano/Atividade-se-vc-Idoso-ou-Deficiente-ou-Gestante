@@ -1,0 +1,39 @@
+Atividade se vc é idoso ou deficiente ou gestante
+
+
+
+importar java.util.Scanner;
+
+classe HelloWorld 
+{
+    public static void main(String[] args)
+    
+    {
+        int gtr,gt,audi,ferrari;
+        Scanner ler = new Scanner(System.in);
+        System.out.printf("Você tem algum desses problemas?");
+        gtr = ler.nextInt();
+        
+        System.out.printf("Caso seja deficiente físico digite 1");
+        gt = ler.nextInt();
+        
+        
+        System.out.printf("Caso seja gestante digite 2");
+        audi = ler.nextInt();
+        
+        System.out.printf("Caso seja idoso 3");
+        ferrari = ler.nextInt()
+        
+        if (gt == 1)
+    }
+       System.out.printf("Voce pode estacionar!!!");  
+{
+    else if (audi == 2 ) 
+}
+   System.out.printf("você pode estacionar");
+
+    {
+    else (ferrari == 3 )
+  System.out.prntf("voce pode estacionar")
+    }
+}
