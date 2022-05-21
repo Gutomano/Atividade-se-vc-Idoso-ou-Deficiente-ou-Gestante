@@ -2,8 +2,8 @@
 ´´´
 
 Inicio .
-Se for gestante, idoso ou deficiente podera para na vaga.
-Se não, não podera para na vaga.
+Se for gestante, idoso ou deficiente podera para na vaga.´´´
+Se não, não podera para na vaga.´´´
 Fim.
 
 ´´´
